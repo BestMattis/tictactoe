@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DeliveryServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-04-23T21:53:39" hostname="DESKTOP-S4B2J4C" time="0.027">
+  <properties/>
+  <testcase name="test" classname="DeliveryServiceTest" time="0.027"/>
+  <system-out><![CDATA[Pizza:35213981 delivered to BestMattis
+Burger:35213981 delivered to BestMattis
+Doener:35213981 delivered to BestMattis
+Gebratene Nudeln:35213981 delivered to BestMattis
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
